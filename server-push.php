@@ -7,6 +7,7 @@
 header('Content-Type: text/event-stream');
 header('Cache-Control: no-cache');
 
+$abc= "asa";
 $servername = "localhost";
 $username = "root";
 $password = "";
